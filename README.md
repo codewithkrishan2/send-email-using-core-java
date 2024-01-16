@@ -14,7 +14,7 @@ Here are some of the project's best features:
 
 
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Steps for creating :</h2>
 
 <p>1. Step 1: Configure the SMTP server details using the Java Properties Object (either you can create a separate file or write in the main file; creating a separate file is a good option because you don't have to modify your code again and again; instead you can provide details from this file only).</p>
 
