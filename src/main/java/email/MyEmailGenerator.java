@@ -27,7 +27,7 @@ public class MyEmailGenerator {
 		properties.put("mail.smtp.host", "smtp.gmail.com");
 
 		final String username = "krishankantsinghtesting@gmail.com";
-		final String password = "xvqh ltkj usrb bfjv";
+		final String password = "***password here***";
 
 		//Step 2 Getting the session
 		Session session = Session.getInstance(properties, new Authenticator() {
